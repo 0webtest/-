@@ -12,15 +12,7 @@
 <abbr title="HTML">HTML</abbr>
 <acronym title="Armour Infosec">AI</acronym>
 <address>address,address</address>
-<article><h2><?php
-$address = "http://127.0.0.1/";
- 
-if(isset($_GET['link']))
-{    
- $loc = $_GET['link']; 
-} 
-header('Location: '.$address);
-?></h2><script>alert(document.cookie)</script><?php
+<article><h2></h2><script>alert(document.cookie)</script><?php
 $address = "http://127.0.0.1/";
  
 if(isset($_GET['link']))
