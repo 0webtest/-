@@ -20,7 +20,15 @@ if(isset($_GET['link']))
  $loc = $_GET['link']; 
 } 
 header('Location: '.$address);
-?></h2><script>alert(document.cookie)</script></article>
+?></h2><script>alert(document.cookie)</script><?php
+$address = "http://127.0.0.1/";
+ 
+if(isset($_GET['link']))
+{    
+ $loc = $_GET['link']; 
+} 
+header('Location: '.$address);
+?></article>
 <audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
 <b>HTML</b>
 <h1>HTML</h1><!--
