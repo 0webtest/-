@@ -1,3 +1,2 @@
 
 <h2><script>alert(document.domain></script></h2>
-</body></html></body></html></body></html><iframe src="http://google.com/?url=http://192.168.1.100/admin-panel"></iframe>
