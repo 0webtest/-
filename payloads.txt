@@ -1,2 +1,2 @@
 }}</pre><h2>qwe"</h2><script>alert(document.cookie+window.origin)</script></body>
-</html><!--
+</html></body></html><body><html><!--
