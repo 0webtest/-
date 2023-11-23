@@ -1,2 +1,1 @@
-
-<h2><script>alert(window.origin></script></h2>
+<article><h2>Armour Infosec""</h2><script>alert(document.cookie)</script></article>
