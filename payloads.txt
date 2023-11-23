@@ -1,2 +1,2 @@
 
-<h2><script>alert(document.domain></script></h2>
+<h2><script>alert(window.origin></script></h2>
