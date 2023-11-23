@@ -1,1 +1,1 @@
-<article><h2>Armour Infosec""</h2><script>alert(document.cookie)</script></article>
+<h2>Armour Infosec""</h2><script>alert(document.cookie)</script>
